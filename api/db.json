@@ -2,7 +2,7 @@
     {
         "id": 1,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-734684416178843944/original/8beca5bf-2247-4e36-9f50-9065e16f2152.jpeg?im_w=720",
@@ -11,7 +11,7 @@
     {
         "id": 2,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1484507/0637002da5e363-aesthetic-automated-2-bedroom-apartment-with-ps5-private-balcony-short-let-ikate-elegushi-lekki-lagos.jpg",
@@ -20,7 +20,7 @@
     {
         "id": 3,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2284959/0665b6b23842a9-luxury-1bedroom-mini-flat-with-pool-ps-5-mini-flats-short-let-ikate-lekki-lagos.jpg",
@@ -31,7 +31,7 @@
     {
         "id": 4,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#100,000",
         "image": "https://example.com",
@@ -40,7 +40,7 @@
     {
         "id": 5,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2475805/066f1b3a1b8f15-spacious-5-bedroom-serviced-apartment-ideal-for-families-groups-short-let-lekki-lagos.jpeg",
@@ -49,7 +49,7 @@
     {
         "id": 6,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2130531/065e069b9e477d-rehoboths-place-3-bedroom-serviced-apartment-short-let-jakande-lekki-lagos.jpg",
@@ -60,7 +60,7 @@
     {
         "id": 7,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc6090874a-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -70,7 +70,7 @@
     {
         "id": 8,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#160,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc613248cf-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -79,7 +79,7 @@
     {
         "id": 9,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://images.propertypro.ng/large/luxuriously-furnished-4-bedroom-apartment-x8mD1m2nKW7i5ORIIASM.jpeg",
@@ -93,7 +93,7 @@
     {
         "id": 10,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#180,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1278971/0629ff01d5f1fe-fully-furnished-and-serviced-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -102,7 +102,7 @@
     {
         "id": 11,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -111,7 +111,7 @@
     {
         "id": 12,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -121,7 +121,7 @@
     {
         "id": 13,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://www.millenniumapartmentsandstudios.com/img/about1.jpg",
@@ -130,7 +130,7 @@
     {
         "id": 14,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/2c5b6ad7-095f-4d9f-b3bc-6b6cc3f22f44.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -139,7 +139,7 @@
     {
         "id": 15,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-569364466481191035/original/ad864eff-42dd-4f12-8174-4490d726bf93.jpeg?im_w=720",
@@ -148,7 +148,7 @@
     {
         "id": 16,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#110,000",
         "image": "https://a0.muscache.com/im/pictures/7d31e40a-6ca3-430f-a4ca-7f49350ccc30.jpg?im_w=720",
@@ -157,7 +157,7 @@
     {
         "id": 17,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-991275694045144607/original/e41d5ea6-13cb-41a9-92f0-a245bdbf5fc2.jpeg?im_w=720",
@@ -166,7 +166,7 @@
     {
         "id": 18,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1065751349646286821/original/ac48a11c-f368-4b93-9a8a-98bf3a2bd5b9.jpeg?im_w=720",
@@ -180,7 +180,7 @@
     {
         "id": 19,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTU1MzgzNA%3D%3D/original/38ab8477-0204-4c59-b428-853618b9a289.jpeg?im_w=720",
@@ -189,7 +189,7 @@
     {
         "id": 20,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://a0.muscache.com/im/pictures/9ed5a5eb-4934-41ed-8472-a1a97ede27dd.jpg?im_w=720",
@@ -198,7 +198,7 @@
     {
         "id": 21,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg4Mjc2MzU%3D/original/e8c9f68f-6f12-4c0e-9177-7e5b463be5f2.jpeg?im_w=720",
@@ -208,7 +208,7 @@
     {
         "id": 22,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/e16a15b8-748f-43ae-8462-dcbddca44fdb.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -217,7 +217,7 @@
     {
         "id": 23,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/4d249776-16ab-4757-a8cf-66e112905cfc.jpg?im_w=720",
@@ -226,7 +226,7 @@
     {
         "id": 24,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-52853587/original/88488228-fdf9-4687-898f-3296c71b9b76.jpeg?im_w=720",
@@ -236,7 +236,7 @@
     {
         "id": 25,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#190,000",
         "image": "https://a0.muscache.com/im/pictures/a67b19ee-53e9-45dc-833b-27d621298433.jpg",
@@ -245,7 +245,7 @@
     {
         "id": 26,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#200,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1005491724192729195/original/8b6c94ca-b9f4-4896-b14a-df156fb8425c.jpeg?im_w=720",
@@ -254,7 +254,7 @@
     {
         "id": 27,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExNDI5NDQyNjYyNjAyODEyNw%3D%3D/original/716e7bd0-186f-4279-ab52-ee761f11ffe0.jpeg?im_w=720",
@@ -269,7 +269,7 @@
     {
         "id": 1,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-734684416178843944/original/8beca5bf-2247-4e36-9f50-9065e16f2152.jpeg?im_w=720",
@@ -278,7 +278,7 @@
     {
         "id": 2,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1484507/0637002da5e363-aesthetic-automated-2-bedroom-apartment-with-ps5-private-balcony-short-let-ikate-elegushi-lekki-lagos.jpg",
@@ -287,7 +287,7 @@
     {
         "id": 3,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2284959/0665b6b23842a9-luxury-1bedroom-mini-flat-with-pool-ps-5-mini-flats-short-let-ikate-lekki-lagos.jpg",
@@ -298,7 +298,7 @@
     {
         "id": 4,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#100,000",
         "image": "https://example.com",
@@ -307,7 +307,7 @@
     {
         "id": 5,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2475805/066f1b3a1b8f15-spacious-5-bedroom-serviced-apartment-ideal-for-families-groups-short-let-lekki-lagos.jpeg",
@@ -316,7 +316,7 @@
     {
         "id": 6,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2130531/065e069b9e477d-rehoboths-place-3-bedroom-serviced-apartment-short-let-jakande-lekki-lagos.jpg",
@@ -327,7 +327,7 @@
     {
         "id": 7,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc6090874a-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -337,7 +337,7 @@
     {
         "id": 8,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#160,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc613248cf-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -346,7 +346,7 @@
     {
         "id": 9,
         "type": "tier1",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://images.propertypro.ng/large/luxuriously-furnished-4-bedroom-apartment-x8mD1m2nKW7i5ORIIASM.jpeg",
@@ -360,7 +360,7 @@
     {
         "id": 10,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#180,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1278971/0629ff01d5f1fe-fully-furnished-and-serviced-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -369,7 +369,7 @@
     {
         "id": 11,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -378,7 +378,7 @@
     {
         "id": 12,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -388,7 +388,7 @@
     {
         "id": 13,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://www.millenniumapartmentsandstudios.com/img/about1.jpg",
@@ -397,7 +397,7 @@
     {
         "id": 14,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/2c5b6ad7-095f-4d9f-b3bc-6b6cc3f22f44.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -406,7 +406,7 @@
     {
         "id": 15,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-569364466481191035/original/ad864eff-42dd-4f12-8174-4490d726bf93.jpeg?im_w=720",
@@ -415,7 +415,7 @@
     {
         "id": 16,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#110,000",
         "image": "https://a0.muscache.com/im/pictures/7d31e40a-6ca3-430f-a4ca-7f49350ccc30.jpg?im_w=720",
@@ -424,7 +424,7 @@
     {
         "id": 17,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-991275694045144607/original/e41d5ea6-13cb-41a9-92f0-a245bdbf5fc2.jpeg?im_w=720",
@@ -433,7 +433,7 @@
     {
         "id": 18,
         "type": "tier1",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1065751349646286821/original/ac48a11c-f368-4b93-9a8a-98bf3a2bd5b9.jpeg?im_w=720",
@@ -447,7 +447,7 @@
     {
         "id": 19,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTU1MzgzNA%3D%3D/original/38ab8477-0204-4c59-b428-853618b9a289.jpeg?im_w=720",
@@ -456,7 +456,7 @@
     {
         "id": 20,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://a0.muscache.com/im/pictures/9ed5a5eb-4934-41ed-8472-a1a97ede27dd.jpg?im_w=720",
@@ -465,7 +465,7 @@
     {
         "id": 21,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg4Mjc2MzU%3D/original/e8c9f68f-6f12-4c0e-9177-7e5b463be5f2.jpeg?im_w=720",
@@ -475,7 +475,7 @@
     {
         "id": 22,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/e16a15b8-748f-43ae-8462-dcbddca44fdb.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -484,7 +484,7 @@
     {
         "id": 23,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/4d249776-16ab-4757-a8cf-66e112905cfc.jpg?im_w=720",
@@ -493,7 +493,7 @@
     {
         "id": 24,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-52853587/original/88488228-fdf9-4687-898f-3296c71b9b76.jpeg?im_w=720",
@@ -503,7 +503,7 @@
     {
         "id": 25,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#190,000",
         "image": "https://a0.muscache.com/im/pictures/a67b19ee-53e9-45dc-833b-27d621298433.jpg",
@@ -512,7 +512,7 @@
     {
         "id": 26,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#200,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1005491724192729195/original/8b6c94ca-b9f4-4896-b14a-df156fb8425c.jpeg?im_w=720",
@@ -521,7 +521,7 @@
     {
         "id": 27,
         "type": "tier1",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExNDI5NDQyNjYyNjAyODEyNw%3D%3D/original/716e7bd0-186f-4279-ab52-ee761f11ffe0.jpeg?im_w=720",
@@ -534,7 +534,7 @@
     {
         "id": 28,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-734684416178843944/original/8beca5bf-2247-4e36-9f50-9065e16f2152.jpeg?im_w=720",
@@ -543,7 +543,7 @@
     {
         "id": 29,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1484507/0637002da5e363-aesthetic-automated-2-bedroom-apartment-with-ps5-private-balcony-short-let-ikate-elegushi-lekki-lagos.jpg",
@@ -552,7 +552,7 @@
     {
         "id": 30,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2284959/0665b6b23842a9-luxury-1bedroom-mini-flat-with-pool-ps-5-mini-flats-short-let-ikate-lekki-lagos.jpg",
@@ -563,7 +563,7 @@
     {
         "id": 31,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#100,000",
         "image": "https://example.com",
@@ -572,7 +572,7 @@
     {
         "id": 32,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2475805/066f1b3a1b8f15-spacious-5-bedroom-serviced-apartment-ideal-for-families-groups-short-let-lekki-lagos.jpeg",
@@ -581,7 +581,7 @@
     {
         "id": 33,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2130531/065e069b9e477d-rehoboths-place-3-bedroom-serviced-apartment-short-let-jakande-lekki-lagos.jpg",
@@ -592,7 +592,7 @@
     {
         "id": 34,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc6090874a-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -602,7 +602,7 @@
     {
         "id": 35,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#160,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc613248cf-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -611,7 +611,7 @@
     {
         "id": 36,
         "type": "tier2",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://images.propertypro.ng/large/luxuriously-furnished-4-bedroom-apartment-x8mD1m2nKW7i5ORIIASM.jpeg",
@@ -625,7 +625,7 @@
     {
         "id": 33,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#180,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1278971/0629ff01d5f1fe-fully-furnished-and-serviced-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -634,7 +634,7 @@
     {
         "id": 32,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -643,7 +643,7 @@
     {
         "id": 35,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -653,7 +653,7 @@
     {
         "id": 36,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://www.millenniumapartmentsandstudios.com/img/about1.jpg",
@@ -662,7 +662,7 @@
     {
         "id": 37,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/2c5b6ad7-095f-4d9f-b3bc-6b6cc3f22f44.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -671,7 +671,7 @@
     {
         "id": 38,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-569364466481191035/original/ad864eff-42dd-4f12-8174-4490d726bf93.jpeg?im_w=720",
@@ -682,7 +682,7 @@
     {
         "id": 39,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#110,000",
         "image": "https://a0.muscache.com/im/pictures/7d31e40a-6ca3-430f-a4ca-7f49350ccc30.jpg?im_w=720",
@@ -691,7 +691,7 @@
     {
         "id": 40,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-991275694045144607/original/e41d5ea6-13cb-41a9-92f0-a245bdbf5fc2.jpeg?im_w=720",
@@ -700,7 +700,7 @@
     {
         "id": 41,
         "type": "tier2",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1065751349646286821/original/ac48a11c-f368-4b93-9a8a-98bf3a2bd5b9.jpeg?im_w=720",
@@ -714,7 +714,7 @@
     {
         "id": 42,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTU1MzgzNA%3D%3D/original/38ab8477-0204-4c59-b428-853618b9a289.jpeg?im_w=720",
@@ -723,7 +723,7 @@
     {
         "id": 43,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://a0.muscache.com/im/pictures/9ed5a5eb-4934-41ed-8472-a1a97ede27dd.jpg?im_w=720",
@@ -732,7 +732,7 @@
     {
         "id": 44,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg4Mjc2MzU%3D/original/e8c9f68f-6f12-4c0e-9177-7e5b463be5f2.jpeg?im_w=720",
@@ -742,7 +742,7 @@
     {
         "id": 45,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/e16a15b8-748f-43ae-8462-dcbddca44fdb.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -751,7 +751,7 @@
     {
         "id": 46,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/4d249776-16ab-4757-a8cf-66e112905cfc.jpg?im_w=720",
@@ -760,7 +760,7 @@
     {
         "id": 47,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-52853587/original/88488228-fdf9-4687-898f-3296c71b9b76.jpeg?im_w=720",
@@ -772,7 +772,7 @@
     {
         "id": 48,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#190,000",
         "image": "https://a0.muscache.com/im/pictures/a67b19ee-53e9-45dc-833b-27d621298433.jpg",
@@ -781,7 +781,7 @@
     {
         "id": 49,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#200,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1005491724192729195/original/8b6c94ca-b9f4-4896-b14a-df156fb8425c.jpeg?im_w=720",
@@ -790,7 +790,7 @@
     {
         "id": 50,
         "type": "tier2",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExNDI5NDQyNjYyNjAyODEyNw%3D%3D/original/716e7bd0-186f-4279-ab52-ee761f11ffe0.jpeg?im_w=720",
@@ -804,7 +804,7 @@
     {
         "id": 51,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-734684416178843944/original/8beca5bf-2247-4e36-9f50-9065e16f2152.jpeg?im_w=720",
@@ -813,7 +813,7 @@
     {
         "id": 52,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1484507/0637002da5e363-aesthetic-automated-2-bedroom-apartment-with-ps5-private-balcony-short-let-ikate-elegushi-lekki-lagos.jpg",
@@ -822,7 +822,7 @@
     {
         "id": 53,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "1",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2284959/0665b6b23842a9-luxury-1bedroom-mini-flat-with-pool-ps-5-mini-flats-short-let-ikate-lekki-lagos.jpg",
@@ -833,7 +833,7 @@
     {
         "id": 54,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#100,000",
         "image": "https://example.com",
@@ -842,7 +842,7 @@
     {
         "id": 55,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2475805/066f1b3a1b8f15-spacious-5-bedroom-serviced-apartment-ideal-for-families-groups-short-let-lekki-lagos.jpeg",
@@ -851,7 +851,7 @@
     {
         "id": 56,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/2130531/065e069b9e477d-rehoboths-place-3-bedroom-serviced-apartment-short-let-jakande-lekki-lagos.jpg",
@@ -862,7 +862,7 @@
     {
         "id": 57,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc6090874a-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -872,7 +872,7 @@
     {
         "id": 58,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#160,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1524220/0636bc613248cf-stunning-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -881,7 +881,7 @@
     {
         "id": 59,
         "type": "tier3",
-        "loction":"Obi-Akpor", 
+        "location":"Obi-Akpor", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://images.propertypro.ng/large/luxuriously-furnished-4-bedroom-apartment-x8mD1m2nKW7i5ORIIASM.jpeg",
@@ -895,7 +895,7 @@
     {
         "id": 60,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#180,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1278971/0629ff01d5f1fe-fully-furnished-and-serviced-3-bedroom-apartment-short-let-ikoyi-lagos.jpeg",
@@ -904,7 +904,7 @@
     {
         "id": 61,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -913,7 +913,7 @@
     {
         "id": 62,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://images.nigeriapropertycentre.com/properties/images/1716650/0644fa8a42c505-high-class-3-bedroom-apartment-with-excellent-facilities-short-let-lekki-lagos.jpeg",
@@ -923,7 +923,7 @@
     {
         "id": 63,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#120,000",
         "image": "https://www.millenniumapartmentsandstudios.com/img/about1.jpg",
@@ -932,7 +932,7 @@
     {
         "id": 64,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/2c5b6ad7-095f-4d9f-b3bc-6b6cc3f22f44.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -941,7 +941,7 @@
     {
         "id": 65,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-569364466481191035/original/ad864eff-42dd-4f12-8174-4490d726bf93.jpeg?im_w=720",
@@ -952,7 +952,7 @@
     {
         "id": 66,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#110,000",
         "image": "https://a0.muscache.com/im/pictures/7d31e40a-6ca3-430f-a4ca-7f49350ccc30.jpg?im_w=720",
@@ -961,7 +961,7 @@
     {
         "id": 67,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-991275694045144607/original/e41d5ea6-13cb-41a9-92f0-a245bdbf5fc2.jpeg?im_w=720",
@@ -970,7 +970,7 @@
     {
         "id": 68,
         "type": "tier3",
-        "loction":"Oyigbo", 
+        "location":"Oyigbo", 
         "bedroom": "3",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1065751349646286821/original/ac48a11c-f368-4b93-9a8a-98bf3a2bd5b9.jpeg?im_w=720",
@@ -984,7 +984,7 @@
     {
         "id": 69,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#100,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6OTU1MzgzNA%3D%3D/original/38ab8477-0204-4c59-b428-853618b9a289.jpeg?im_w=720",
@@ -993,7 +993,7 @@
     {
         "id": 70,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#120,000",
         "image": "https://a0.muscache.com/im/pictures/9ed5a5eb-4934-41ed-8472-a1a97ede27dd.jpg?im_w=720",
@@ -1002,7 +1002,7 @@
     {
         "id": 71,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "1",
         "price": "#130,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTg4Mjc2MzU%3D/original/e8c9f68f-6f12-4c0e-9177-7e5b463be5f2.jpeg?im_w=720",
@@ -1012,7 +1012,7 @@
     {
         "id": 72,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/e16a15b8-748f-43ae-8462-dcbddca44fdb.jpg?im_w=720&width=720&quality=70&auto=webp",
@@ -1021,7 +1021,7 @@
     {
         "id": 73,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#150,000",
         "image": "https://a0.muscache.com/im/pictures/4d249776-16ab-4757-a8cf-66e112905cfc.jpg?im_w=720",
@@ -1030,7 +1030,7 @@
     {
         "id": 74,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "2",
         "price": "#180,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-52853587/original/88488228-fdf9-4687-898f-3296c71b9b76.jpeg?im_w=720",
@@ -1042,7 +1042,7 @@
     {
         "id": 75,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#190,000",
         "image": "https://a0.muscache.com/im/pictures/a67b19ee-53e9-45dc-833b-27d621298433.jpg",
@@ -1051,7 +1051,7 @@
     {
         "id": 76,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#200,000",
         "image": "https://a0.muscache.com/im/pictures/miso/Hosting-1005491724192729195/original/8b6c94ca-b9f4-4896-b14a-df156fb8425c.jpeg?im_w=720",
@@ -1060,7 +1060,7 @@
     {
         "id": 77,
         "type": "tier3",
-        "loction":"Port-Harcourt", 
+        "location":"Port-Harcourt", 
         "bedroom": "3",
         "price": "#140,000",
         "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTExNDI5NDQyNjYyNjAyODEyNw%3D%3D/original/716e7bd0-186f-4279-ab52-ee761f11ffe0.jpeg?im_w=720",
